@@ -1,6 +1,6 @@
 # POKEDEX
 
-Introdução: Projeto consiste em visualizar uma gama de pokémons de diferentes tipos e forças. É possível ver seus status (Hp, Attack, Defense..) e escolhe-los para colocar em sua prórpia pokédex personalizada, compare os status e escolha seus pokémons !
+Introdução: Projeto consiste em visualizar uma gama de pokémons de diferentes tipos e forças. É possível ver seus status (Hp, Attack, Defense..) e escolhe-los para colocar em sua própria pokédex personalizada, compare os status e escolha seus pokémons !
 
 Integrantes:
 
